@@ -2,7 +2,7 @@
 
 # ISC License
 #
-# Copyright (c) 2020 X3NO <X3NO@disroot.org> [https://github.com/X3NOOO]
+# Copyright (c) 2022 X3NO <X3NO@disroot.org> [https://github.com/X3NOOO]
 #
 # Permission to use, copy, modify, and/or distribute this software for any purpose
 # with or without fee is hereby granted, provided that the above copyright notice
