@@ -110,7 +110,7 @@ def chooseTarget(targets):
 
 
 def attack(target, output):
-    rnd = str(650 + random.randint(0, 50))
+    rnd = str(550 + random.randint(0, 50))
     if output:
         os.system(f"l2ping -i hci0 -s {rnd} -f {target}")
         # -s is size of packet in bytes, size greater than 600 produce Message too long error

@@ -7,7 +7,7 @@ BTDC is tool for DOSing bluetooth devices
  - UI for choosing target device
 
 # more info
-<https://x3no.ct8.pl/blog/btdc/>
+TODO
 
 # requirements
  - `hcitool`
