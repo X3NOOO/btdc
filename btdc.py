@@ -42,7 +42,7 @@ def hello():
     print("""
 \u001b[33mISC License\u001b[0m
 
-Copyright (c) 2020\u001b[34m X3NO <X3NO@disroot.org> [https://github.com/X3NOOO] \u001b[0m
+Copyright (c) 2022\u001b[34m X3NO <X3NO@disroot.org> [https://github.com/X3NOOO] \u001b[0m
 
 Permission to use, copy, modify, and/or distribute this software for any purpose
 with or without fee is hereby granted, provided that the above copyright notice
